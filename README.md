@@ -1,11 +1,10 @@
-Hi 👋 My name is Game
+Hi 👋
 =====================
 
 I am student
 ------------
 
 * 🌍  I'm based in Thailand
-* ✉️  You can contact me at [kittidechislnw@gmail.com](mailto:kittidechislnw@gmail.com)
 * 🧠  I'm learning Html and Css
 
 <a href="https://www.github.com/IS0GAME" target="_blank" rel="noreferrer"><img
